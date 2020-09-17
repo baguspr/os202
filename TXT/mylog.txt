@@ -4,3 +4,4 @@
 ZCZC W0 60 L02 Zoom first meeting
 ZCZC W0 10 L01 Exploring OS course page on SCELE
 ZCZC W0 15 L03 Creating Github Repo and filling it
+ZCZC W0 30 L05 GSGS for Github pages
