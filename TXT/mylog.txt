@@ -9,3 +9,4 @@ ZCZC W0  30 L05 GSGS for Github pages
 ZCZC W0  30 L04 Creating Github page for OS2020 Repo
 ZCZC W0  30 L06 Reading resources about Debian Guest and Linux
 ZCZC W1 180 L21 Setting Debian, kawung, and badak
+ZCZC W1 180 L06 Reading OSC 10
