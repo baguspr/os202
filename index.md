@@ -6,3 +6,5 @@ My name is Bagus Prabowo.
 [Click here!](TXT/mylog.txt)
 
 ### TOP 10 LIST
+* [Week 00](W00/)
+* [Week 01](W01/)
