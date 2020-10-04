@@ -8,3 +8,4 @@ My name is Bagus Prabowo.
 ### TOP 10 LIST
 * [Week 00](W00/)
 * [Week 01](W01/)
+* [Week 02](W02/)
