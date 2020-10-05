@@ -13,6 +13,3 @@ ZCZC W1 180 L06 Reading OSC 10
 ZCZC W2  60 L02 Week 2 Zoom lecture
 ZCZC W2  10 L09 Asking MD several stuff related to OS
 ZCZC W2  45 L12 Doing week 2 assignment
-ZCZC W2  15 L99 Watering plants and relocate them
-ZCZC W2  60 L99 Cooking dinner
-ZCZC W2  90 L99 Making korean fried chicken
