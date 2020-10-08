@@ -5,3 +5,6 @@ ZCZC W00 Constantine-kevin
 ZCZC W01 aulia-adil
 ZCZC W01 chandapap
 ZCZC W01 althof3
+ZCZC W02 dandyfebriano
+ZCZC W02 aulia-adil
+ZCZC W02 Constantine-kevin
