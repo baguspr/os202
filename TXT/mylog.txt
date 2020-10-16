@@ -15,3 +15,5 @@ ZCZC W2  10 L09 Asking MD several stuff related to OS
 ZCZC W2  45 L12 Doing week 2 assignment
 ZCZC W3  60 L02 Week 3 Zoom lecture
 ZCZC W3  60 L13 Doing week 3 assignment
+ZCZC W4  60 L02 Week 4 Zoom Lecture
+ZCZC W4  60 L13 Doing week 4 assignment
