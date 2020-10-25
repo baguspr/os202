@@ -17,7 +17,7 @@ ZCZC W03  60 L13 Doing week 3 assignment
 ZCZC W03  60 L05 GSGS for week 3 top 10 list
 ZCZC W04  60 L02 Week 4 Zoom lecture
 ZCZC W04  60 L13 Doing week 4 assignment
-ZCZC W03  60 L05 GSGS for week 4 top 10 list
+ZCZC W04  60 L05 GSGS for week 4 top 10 list
 ZCZC W05  60 L02 Week 5 Zoom lecture
 ZCZC W05  60 L13 Doing week 5 assignment
-ZCZC W03  60 L05 GSGS for week 5 top 10 list
+ZCZC W05  60 L05 GSGS for week 5 top 10 list
