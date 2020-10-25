@@ -3,12 +3,12 @@
 My name is Bagus Prabowo. 
 
 ### MY FILES
-[My Log](TXT/mylog.txt)
-[My Public Key](TXT/mypubkey.txt)
-[My Script](TXT/myscript.sh)
-[My Top Ten Rank List](TXT/myrank.txt)
-[SHA256SUM](TXT/SHA256SUM)
-[SHA256SUM.asc](TXT/SHA256SUM.asc)
+* [My Log](TXT/mylog.txt)
+* [My Public Key](TXT/mypubkey.txt)
+* [My Script](TXT/myscript.sh)
+* [My Top Ten Rank List](TXT/myrank.txt)
+* [SHA256SUM](TXT/SHA256SUM)
+* [SHA256SUM.asc](TXT/SHA256SUM.asc)
 
 ### TOP 10 LIST
 * [Week 00](W00/)
