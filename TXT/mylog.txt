@@ -1,19 +1,23 @@
 # Log Format
 # ZCZC WEEK# MINUTES LogCode Description
-# LogCode + Description List
-
-ZCZC W0  60 L02 Zoom first meeting
-ZCZC W0  10 L01 Exploring OS course page on SCELE
-ZCZC W0  15 L03 Creating Github Repo and filling it
-ZCZC W0  30 L05 GSGS for Github pages
-ZCZC W0  30 L04 Creating Github page for OS2020 Repo
-ZCZC W0  30 L06 Reading resources about Debian Guest and Linux
-ZCZC W1 180 L21 Setting Debian, kawung, and badak
-ZCZC W1 180 L06 Reading OSC 10
-ZCZC W2  60 L02 Week 2 Zoom lecture
-ZCZC W2  10 L09 Asking MD several stuff related to OS
-ZCZC W2  45 L12 Doing week 2 assignment
-ZCZC W3  60 L02 Week 3 Zoom lecture
-ZCZC W3  60 L13 Doing week 3 assignment
-ZCZC W4  60 L02 Week 4 Zoom Lecture
-ZCZC W4  60 L13 Doing week 4 assignment
+# LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
+ZCZC W00  60 L02 Zoom first meeting
+ZCZC W00  10 L01 Exploring OS course page on SCELE
+ZCZC W00  15 L03 Creating Github Repo and filling it
+ZCZC W00  30 L05 GSGS for Github pages
+ZCZC W00  30 L04 Creating Github page for OS2020 Repo
+ZCZC W00  30 L06 Reading resources about Debian Guest and Linux
+ZCZC W01 180 L21 Setting Debian, kawung, and badak
+ZCZC W01 180 L06 Reading OSC 10
+ZCZC W02  60 L02 Week 2 Zoom lecture
+ZCZC W02  10 L09 Asking MD several stuff related to OS
+ZCZC W02  45 L12 Doing week 2 assignment
+ZCZC W03  60 L02 Week 3 Zoom lecture
+ZCZC W03  60 L13 Doing week 3 assignment
+ZCZC W03  60 L05 GSGS for week 3 top 10 list
+ZCZC W04  60 L02 Week 4 Zoom lecture
+ZCZC W04  60 L13 Doing week 4 assignment
+ZCZC W03  60 L05 GSGS for week 4 top 10 list
+ZCZC W05  60 L02 Week 5 Zoom lecture
+ZCZC W05  60 L13 Doing week 5 assignment
+ZCZC W03  60 L05 GSGS for week 5 top 10 list
