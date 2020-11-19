@@ -24,4 +24,6 @@ ZCZC W05  60 L05 GSGS for week 5 top 10 list
 ZCZC W06  60 L02 Week 6 Zoom lecture
 ZCZC W06 120 L13 Doing week 6 assignment
 ZCZC W06 100 L05 GSGS for week 6 top 10 list
+ZCZC W07  90 L02 Week 7 Zoom lecture
 ZCZC W07  30 L13 Updating myrank and create token
+ZCZC W07  60 L13 Doing week 7 assignment
